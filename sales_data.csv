@@ -1,0 +1,22 @@
+
+OrderID,OrderDate,Region,Category,Product,Quantity,UnitPrice
+1001,2026-01-05,West,Electronics,Keyboard,2,800
+1002,2026-01-08,North,Furniture,Chair,3,2500
+1003,2026-01-12,South,Electronics,Mouse,5,400
+1004,2026-01-18,East,Office Supplies,Notebook,10,50
+1005,2026-02-03,West,Furniture,Desk,2,6000
+1006,2026-02-09,North,Electronics,Monitor,2,8500
+1007,2026-02-15,South,Office Supplies,Pen,20,20
+1008,2026-02-22,East,Furniture,Chair,4,2500
+1009,2026-03-04,West,Electronics,Keyboard,3,800
+1010,2026-03-10,North,Office Supplies,Notebook,15,50
+1011,2026-03-14,South,Furniture,Desk,1,6000
+1012,2026-03-25,East,Electronics,Mouse,8,400
+1013,2026-04-02,West,Office Supplies,Pen,30,20
+1014,2026-04-11,North,Furniture,Chair,2,2500
+1015,2026-04-16,South,Electronics,Monitor,1,8500
+1016,2026-04-27,East,Office Supplies,Notebook,12,50
+1017,2026-05-06,West,Furniture,Desk,3,6000
+1018,2026-05-13,North,Electronics,Mouse,6,400
+1019,2026-05-19,South,Office Supplies,Pen,25,20
+1020,2026-05-28,East,Electronics,Keyboard,4,800
